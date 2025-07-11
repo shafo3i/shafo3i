@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/shafo3i/shafo3i/main/assets/Gemini_Generated_Image_nd69ywnd69ywnd69" alt="Shafo3i - Building Modern Web" width="700"/>
+  <img src="https://raw.githubusercontent.com/shafo3i/shafo3i/main/Gemini_Generated_Image_nd69ywnd69ywnd69" alt="Shafo3i - Building Modern Web" width="700"/>
   </div>
 
 ---
