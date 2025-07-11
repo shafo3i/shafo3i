@@ -28,8 +28,8 @@ I'm a JavaScript developer passionate about crafting **sleek, performant web exp
 ### 🔥 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?usernameshafo3i&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Your GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.vercel.app/?user=shafo3i&theme=radical&hide_border=true" alt="Your GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shafo3i&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="shafo3i's GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.vercel.app/?user=shafo3i&theme=radical&hide_border=true" alt="shafo3i's GitHub Streak"/>
 </p>
 
 ---
