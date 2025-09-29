@@ -35,7 +35,7 @@ My toolkit for bringing ideas to life:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,graphql,mongodb,git,vscode,docker,vercel&theme=light" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,graphql,mongodb,git,vscode,docker,vercel&theme=radical" />
   </a>
 </p>
 
