@@ -46,6 +46,8 @@ My toolkit for bringing ideas to life:
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shafo3i&show_icons=true&theme=radical)
 
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shafo3i&stats_format=bytes)
+
 ---
 
 ### 🚀 What I'm Currently Working On
