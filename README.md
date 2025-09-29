@@ -35,7 +35,7 @@ My toolkit for bringing ideas to life:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,graphql,mongodb,git,vscode,docker,vercel&theme=radical" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,graphql,mongodb,git,vscode,docker,vercel&theme=light" />
   </a>
 </p>
 
@@ -44,7 +44,7 @@ My toolkit for bringing ideas to life:
 ### 🔥 GitHub Activity & Insights
 
 
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shafo3i)](https://github.com/shafo3i/github-readme-stats)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shafo3i&show_icons=true&theme=radical)
 
 ---
 
