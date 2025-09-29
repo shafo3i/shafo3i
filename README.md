@@ -44,7 +44,7 @@ My toolkit for bringing ideas to life:
 ### 🔥 GitHub Activity & Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shafo3i&show_icons=true&hide_title=true&theme=nord&hide_border=true&count_private=true&line_height=25" alt="Shafo3i's GitHub Stats"/>
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shafo3i)](https://github.com/shafo3i/github-readme-stats)
   <img src="https://github-readme-streak-stats.vercel.app/?user=shafo3i&theme=nord&hide_border=true" alt="Shafo3i's GitHub Streak"/>
 </p>
 
