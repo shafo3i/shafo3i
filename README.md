@@ -1,19 +1,18 @@
-# Hi, I'm Shafo3i 👋
+Hi, I'm Shafo3i 👋
 
-**DevOps Engineer focused on reliable infrastructure, automation, and software development.**
+**DevOps & Software Engineer — designing reliable infrastructure, automating delivery, and building scalable software.**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/shafo3i)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=x&logoColor=white)](https://twitter.com/shafo3i)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:shafo3i@gmail.com)
+**LinkedIn** **Twitter** **Email**
 
 ## About
 
-I develop clean, maintainable applications with a focus on great user experiences, reliable architecture, and performant systems.
+I’m a DevOps and software engineer focused on building dependable systems, improving developer workflows, and delivering maintainable applications from infrastructure to interface.
 
-- Building modern interfaces with React and Next.js
-- Developing scalable APIs with Node.js
-- Working across databases, cloud services, and Docker
-- Interested in collaboration, open source, and innovative web products
+- Designing and automating reliable CI/CD pipelines
+- Building scalable applications and backend services
+- Working with containers, cloud platforms, and infrastructure as code
+- Improving observability, security, performance, and deployment reliability
+- Open to collaborating on impactful software and infrastructure projects
 
 ## Tech Stack
 
