@@ -1,65 +1,40 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/shafo3i/shafo3i/main/Gemini_Generated_Image_tubemgtubemgtube.png" alt="Shafo3i - Building Modern Web" width="700"/>
-</div>
+# Hi, I'm Shafo3i 👋
 
----
+**Full-Stack JavaScript Developer** building modern, scalable, and high-performance web applications.
 
-### 👋 Hello, I'm Shafo3i!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/shafo3i)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=x&logoColor=white)](https://twitter.com/shafo3i)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:shafo3i@gmail.com)
 
-I'm a **JavaScript Developer** specializing in building beautiful and highly performant web applications.  
-My passion lies in crafting elegant user experiences and robust backends, primarily leveraging the power of **Next.js** and the artistry of **Tailwind CSS**.
+## About
 
-I thrive on turning complex requirements into clean, scalable code. Always eager to explore new patterns and best practices to deliver exceptional digital products.
+I develop clean, maintainable applications with a focus on great user experiences, reliable architecture, and performant systems.
 
----
+- Building modern interfaces with React and Next.js
+- Developing scalable APIs with Node.js
+- Working across databases, cloud services, and Docker
+- Interested in collaboration, open source, and innovative web products
 
-### 🌐 Connect with Me
+## Tech Stack
 
-<p align="left">
-  <a href="https://linkedin.com/in/shafo3i" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/shafo3i" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="mailto:shafo3i@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 
----
+## GitHub Statistics
 
-### 💻 Core Technologies
-
-My toolkit for bringing ideas to life:
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,graphql,mongodb,git,vscode,docker,vercel&theme=light" />
-  </a>
+<p>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=shafo3i&show_icons=true&hide_border=true&theme=transparent&title_color=0969DA&icon_color=0969DA&text_color=57606A" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shafo3i&layout=compact&hide_border=true&theme=transparent&title_color=0969DA&text_color=57606A" />
 </p>
-
----
-
-### 🔥 GitHub Activity & Insights
-
-
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shafo3i&show_icons=true&theme=radical)
-
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shafo3i&stats_format=bytes)
-
----
-
-### 🚀 What I'm Currently Working On
-
-- Refining **component libraries** for better reusability and scalability.  
-- Exploring the latest advancements in **Next.js 15 App Router** patterns.  
-- Deepening my understanding of **serverless functions** and edge computing.  
-- Open to **collaborations** on innovative web projects!
-
----
-
-### ✨ My Goal
-
-To build intuitive and performant web solutions that make a real impact.  
-I believe in clean code, collaborative environments, and continuous learning.
