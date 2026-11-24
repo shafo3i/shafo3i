@@ -2,7 +2,6 @@ Hi, I'm Shafo3i 👋
 
 **DevOps & Software Engineer — designing reliable infrastructure, automating delivery, and building scalable software.**
 
-**LinkedIn** **Twitter** **Email**
 
 ## About
 
