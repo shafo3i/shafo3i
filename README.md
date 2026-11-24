@@ -1,6 +1,6 @@
 # Hi, I'm Shafo3i 👋
 
-**Full-Stack JavaScript Developer** building modern, scalable, and high-performance web applications.
+**DevOps Engineer focused on reliable infrastructure, automation, and software development.**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/shafo3i)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=x&logoColor=white)](https://twitter.com/shafo3i)
